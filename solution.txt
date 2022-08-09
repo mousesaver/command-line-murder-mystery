@@ -1,0 +1,698 @@
+    1  jupyter notebook
+    2  pip install jupyter notebook
+    3  /Users/seanfan/opt/anaconda3/bin/jupyter_mac.command ; exit;
+    4  pip install jupyter notebook
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    6  brew install mysql
+    7  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    8  brew install mysql~
+    9  brew install mysql
+   10  brew services start mysql
+   11  brew service list
+   12  brew services list
+   13  jupyter notebook
+   14  conda install jupyter notebook
+   15  pip install jupyterlab
+   16  pip install jupyterlab
+   17  conda install -c conda-forge jupyterlab
+   18  conda install numpy pandas matplotlib
+   19  conda install jupyter notebook
+   20  conda list
+   21  conda install numpy scipy pandas
+   22  conda search *beautifulsoup*
+   23  conda search *pandas*
+   24  jupyter notebook
+   25  conda install seaborn
+   26  conda search*seaborn*
+   27  conda install matplotlib
+   28  jupyter notebook
+   29  pip install jupyterlab install tensorflow==2.0.0-alpha0 
+   30  conda install tensorflow
+   31  jupyter notebook
+   32  jupyter notebook
+   33  conda info --envs
+   34  conda creat --name py3
+   35  conda create --name py3-TF2.0 python=3
+   36  conda activate py3-TF2.0
+   37  conda install tensorflow
+   38  pip install --upgrade tensorflow
+   39  pip install ipykernel
+   40  pip install ipykernel
+   41  jupyternotebook
+   42  /Users/seanfan/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   43  /Users/seanfan/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   44  jupyter notebook
+   45  jupyter notebook
+   46  jupyter notebooks
+   47  jupyternotebook
+   48  jupyter notebook
+   49  jupyter notebook
+   50  jupyter notebook
+   51  jupyter notebook
+   52  pip install tensorflow_datasets
+   53  jupyter notebook
+   54  jupyter notebook
+   55  conda env
+   56  conda list env
+   57  jupyter notebook
+   58  jupyter notebook
+   59  jupyter notebook
+   60  pip --version
+   61  jupyter notebook
+   62  jupyter notebok
+   63  jupyter notebook
+   64  jupyter notebook
+   65  jupyter notebook
+   66  jupyter notebook
+   67  conda install xlrd
+   68  conda install openpyxl
+   69  conda install lxml
+   70  conda install html5lib
+   71  conda install beautifulsoup4
+   72  jupyternotebook
+   73  jupyter notebook
+   74  jupyter notebook
+   75  jupyter notebook
+   76  pip install requests
+   77  pip install colorama
+   78  python
+   79  pip install openpyxl
+   80   pip install openpyxl
+   81  pip install pmdarima
+   82  pip install keras
+   83  pip install tensorflow
+   84  pip install tensorflow
+   85  jupyter notebook
+   86  pip install tensorflow
+   87    pip install --user --upgrade tensorflow-gpu
+   88  pip install --user --upgrade tensorboard
+   89  pip install --upgrade pip
+   90  pip install tensorflow==2.2
+   91  conda install gcc
+   92  conda install -c conda-forge fbprophet.
+   93  Load Librariesconda install gc
+   94  conda install gcc
+   95  pip install pystan
+   96  pip install fbprophet
+   97  jupyter notebook
+   98  jupyter notebook
+   99  jupyter notebook
+  100  jupyter
+  101  jupyter notebook
+  102  jupyter notebook
+  103  jupyter notebook
+  104  pip install PyPDF2
+  105  cd..
+  106  conda install -c conda-forge spacy
+  107  Documents
+  108  ls
+  109  Documents
+  110  cd Documents
+  111  ls
+  112  Udem
+  113  cd Udem
+  114  ls
+  115  cd UPDATED_NLP_COURSE
+  116  ls
+  117  conda env create -f nlpnlp_course_env.yml
+  118  conda env create -f nlp_course_env.yml\n
+  119  conda activate nlp_course
+  120  jupyter notebook
+  121  conda install -c conda-forge spacy
+  122  python -m spacy download en
+  123  pip install en_core_web_sm
+  124  pip3 install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+  125  pip install google-api-python-client==1.6.4
+  126  pip install mrjob
+  127  pip install nano
+  128  ls
+  129  /Documents
+  130  ls
+  131  /Documents
+  132  ls
+  133  /Documents/Documents
+  134  ls
+  135  Documents
+  136  CD/Documents
+  137  CD\Documents
+  138  \Documents
+  139  CD Documents
+  140  ls
+  141  python RatingsBreakdown.py u.data
+  142  jupyter notebook
+  143  cd
+  144  jupyter notebook
+  145  activate spacyenv
+  146  python -m spacy download en_core_web_md
+  147  python -m spacy download en_core_web_md
+  148  python -m spacy download en_core_web_lg
+  149  pip install -U spacy\n\n
+  150  python -m spacy download en
+  151  activate spacyenv
+  152  python -m spacy download en_core_web_lg
+  153  ls
+  154  /../Documents
+  155  Documents
+  156  Documents
+  157  python -m spacy download en_core_web_lg 
+  158  sudo python -m spacy download en_core_web_md
+  159  pip install -U spacy
+  160  activate spacyenv
+  161  python -m spacy download en_core_web_md
+  162  python -m spacy download en_core_web_md
+  163  pip install -U pip setuptools wheel
+  164  pip install -U spacy
+  165  python -m spacy download en_core_web_sm
+  166  conda install -c conda-forge spacy
+  167  python -m spacy download en_core_web_sm
+  168  python -m spacy download en_core_web_md
+  169  conda install nltk[twitter]
+  170  pip3 install -U nltk[twitter]
+  171  python -m spacy download en_core_web_md
+  172  python -m spacy download en_core_web_lg
+  173  activate spacyenv
+  174  jupyter notebook
+  175  python3 -m spacy download en
+  176  pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+  177  pip install -U pip setuptools wheel
+  178  pip install -U spacy
+  179  python -m spacy download en_core_web_sm
+  180  python -m spacy download en
+  181  pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz --no-deps
+  182  conda install -c conda-forge spacy
+  183  python -m spacy download en
+  184  cd ..
+  185  cd ..
+  186  conda install -c conda-forge spacy
+  187  python -m spacy download en
+  188  conda install -c conda-forge spacy
+  189  python -m spacy download en
+  190  update spacy
+  191  env
+  192  ls
+  193  Users
+  194  /Users
+  195  pwd
+  196  open /Users
+  197  ls
+  198  cd Users
+  199  ls
+  200  cd seanfan
+  201  ls
+  202  cd Documents
+  203  ls
+  204  cd Udem
+  205  ls
+  206  cd UPDATED_NLP_COURSE
+  207  ls
+  208  cd 01-NLP-Python-Basics
+  209  ls
+  210  conda install -c conda-forge spacy
+  211  python -m spacy download en
+  212  pip3 list
+  213  which python
+  214  juptyer notebook
+  215  jupyter notebook
+  216  jupyter notebook
+  217  jupyternotebook
+  218  jupyter notebook
+  219  jupyter notebook
+  220  jupyter notebook
+  221  jupyter notebook
+  222  jupyter notebook
+  223  jupyter notebook
+  224  conda install pydot
+  225  conda install pydotplus
+  226  jupyter notebook
+  227  jupyter notebook
+  228  jupyter notebook
+  229  jupyter notebook
+  230  jupyter notebook
+  231  jupyter notebook
+  232  jupyter notebook
+  233  jupyter notebook
+  234  jupyter notebook
+  235  pip pdpbox
+  236  conda install pdpbox
+  237  pip install pdpbox
+  238  java -version
+  239  "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  240  e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  241  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  242  brew doctor
+  243  brew install --cask java
+  244  jupyter notebook
+  245  jupyter notebook
+  246  node --version
+  247  npm --global mocha
+  248  npm install --global mocha
+  249  jupyter notebook
+  250  $ brew install git
+  251  brew install git\n\n
+  252  pwd
+  253  ls
+  254  cd..
+  255  hello?
+  256  ls
+  257  pwd
+  258  cd Documents
+  259  ls
+  260  ls -a
+  261  cd ..
+  262  pwd
+  263  cd Documents
+  264  ls
+  265  cd Area Calculator
+  266  cd ~
+  267  pwd
+  268  mkdir myfolder
+  269  ls
+  270  cd myfolder
+  271  touch index.html style.css
+  272  rm style.css
+  273  ls
+  274  cd ..
+  275  ls
+  276  rm -r myfolder
+  277  ls
+  278  ls
+  279  cd Downloads
+  280  ls
+  281  cd World
+  282  ls
+  283  cd Africa
+  284  ls -a
+  285  cd ..
+  286  cd Australia
+  287  ls -a
+  288  cd Australia
+  289  ls -a
+  290  cd ..
+  291  cd ..
+  292  cd North_America
+  293  ls -a
+  294  cd Canada
+  295  ls -a
+  296  cd ..
+  297  cd United_States
+  298  ls -a
+  299  cd ..
+  300  cd..
+  301  cd..
+  302  cd ..
+  303  cd Asia
+  304  ls -a
+  305  cd India
+  306  ls -a
+  307  cd ..
+  308  cd Japan
+  309  ls p-a
+  310  ls -a
+  311  cd ..
+  312  cd Vietnam
+  313  ls -a
+  314  cd ..
+  315  cd ..
+  316  cd Europe
+  317  ls -a
+  318  cd ~
+  319  pwd
+  320  git --version
+  321  brew install git
+  322  ls
+  323  cd Desktop
+  324  mkdir GA-Blog
+  325  cd GA-Blog
+  326  mkdir .git/
+  327  git init
+  328  pwd
+  329  ls -a
+  330  git status
+  331  touch post.txt
+  332  git status
+  333  git add post.txt
+  334  git status
+  335  git log
+  336  git commit -m "add a post.txt"
+  337  git log
+  338  cd ~
+  339  pwd
+  340  Documents
+  341  cd Document
+  342  cd Documents
+  343  pwd
+  344  git clone https://github.com/mousesaver/leetcode.git
+  345  homebrew version
+  346  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  347  brew-- version
+  348  brew--version
+  349  brew__version
+  350  brew --version
+  351  xcode-select --install
+  352  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  353  brew install git
+  354  git --version
+  355  git config --global user.name mousesaver
+  356  git config --global user.email sean.fan87@gmail.com
+  357  git config --global push.default simple
+  358  git config --global credential.helper cache
+  359  git config --global core.editor 'code -w'
+  360  git config -- global --list
+  361  git config --global --list
+  362  brew install --cask visual-studio-code
+  363  open ~/.zshrc
+  364  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+  365  code
+  366  pwd
+  367  ls
+  368  ls -a
+  369  cd Desktop
+  370  ls
+  371  pwd
+  372  ls -a
+  373  cd ..
+  374  pwd
+  375  cd
+  376  pwd
+  377  mkdr seir-808
+  378  mkdir sei-r808
+  379  ls
+  380  cd seir-808
+  381  cd sei-r808
+  382  pwd
+  383  ls
+  384  ls -a
+  385  mkdir unit1
+  386  ls
+  387  pwd
+  388  cd units
+  389  cd unit1
+  390  pwd
+  391  mkdir cli-intro
+  392  cd cli-intro
+  393  pwd
+  394  touch notes.txt
+  395  ls
+  396  code .
+  397  ls
+  398  cat notes.txt
+  399  mkdir my-junk
+  400  ls
+  401  mv notes.txt my-junk/notes.txt
+  402  ls
+  403  cd my-junk
+  404  ls
+  405  cd ..
+  406  touch ../explame
+  407  ls ..
+  408  mv ../example my-junk/example
+  409  mv ../example my-junk/exampleexplame
+  410  touch file.txt .hidden-file other-file.js
+  411  ls
+  412  ls .a
+  413  ls ~a
+  414  ls -a
+  415  mv ../explame my-junk/example
+  416  ls ..
+  417  man ls
+  418  ls -l
+  419  ls
+  420  ls -la
+  421  ls -r
+  422  ls -R
+  423  ls -Rla
+  424  rm file.txt
+  425  ls
+  426  rm my-junk
+  427  man rm
+  428  rm -rf my-junk
+  429  ls
+  430  echo "hello world
+  431  echo 'hello world!'
+  432  echo 'hello redirection' >> hello.txt
+  433  ls
+  434  echo 'append' >> hello.txt
+  435  cat hello.txt
+  436  echo 'rewrite' > hello.txt
+  437  cat hello.txt
+  438  echo 'hello redirection' > hello.txt
+  439  cat hello.txt
+  440  touch books.txt
+  441  code .
+  442  cat books.txt
+  443  man grep
+  444  grep Mill book.txt
+  445  grep Mill books.txt
+  446  grep mill books.txt
+  447  grep Mill books.txt | grep On 
+  448  history
+  449  hisotry | man
+  450  history | grep man
+  451  hisyoty >> history.txt
+  452  history >> history.txt
+  453  cat history.txt
+  454  mv booksman git
+  455  man git
+  456  cd ..
+  457  pwd
+  458  mkdir my-first-repo
+  459  cd my-first-repo
+  460  ls
+  461  touch index.html style.css script.js
+  462  ls
+  463  git init
+  464  git status
+  465  git --version
+  466  cd 
+  467  ls -a
+  468  rm -rf .git
+  469  cd Desktop
+  470  ls
+  471  cd
+  472  ls
+  473  cd sei-r808
+  474  ls
+  475  cd unit1
+  476  ls
+  477  cd my-first-repo
+  478  gitgit config --global init.defaultBranch main
+  479  git config --global init.defaultBranch main
+  480  cd
+  481  git config --global init.defaultBranch main
+  482  pwd
+  483  ls
+  484  cd sei-r808
+  485  ls
+  486  cd unit1
+  487  cd my-first-repo
+  488  ls
+  489  ls -a
+  490  rm -rf .git
+  491  git init
+  492  ls -a
+  493  git status
+  494  git add index.html
+  495  git status
+  496  git commit
+  497  git commit -m "adds index.html file"
+  498  git status
+  499  git log
+  500  git add .
+  501  git status
+  502  git commit -m "adds js and css files"
+  503  git status
+  504  pwd
+  505  man git add
+  506  man git -add
+  507  man git status
+  508  man git-status
+  509  echo 'git is super dope!' >> node.txt
+  510  ls
+  511  git status
+  512  git add .
+  513  git commit -m "took some note on git"
+  514  git status
+  515  ls
+  516  git remote add origin https://github.com/mousesaver/first-repo-808.git
+  517  git remote -v
+  518  git branch -M main
+  519  git push origin main
+  520  cd ..
+  521  ls
+  522  git clone https://github.com/mousesaver/command-line-murder-mystery.git
+  523  ls
+  524  com
+  525  command-line-murder-mystery
+  526  cd ..
+  527  cd command-line-murder-mystery
+  528  ls
+  529  cat instructions
+  530  cat hint1
+  531  open .
+  532  cd mystery
+  533  ls
+  534  cd
+  535  pwd
+  536  open .
+  537  cd
+  538  cd /
+  539  pwd
+  540  cd
+  541  pwd
+  542  cd ~
+  543  pwd
+  544  cd
+  545  ls
+  546  cd sei-r808
+  547  ls
+  548  cd unit1
+  549  cd .
+  550  pwd
+  551  cd ..
+  552  cd unit1
+  553  cd ../..
+  554  cd sei-r808
+  555  cd unit1
+  556  mkdir my-junk
+  557  echo "Carroll, Lewis:Through the Looking-Glass\nShakespeare, William:Hamlet\nBartlett, John:Familiar Quotations\nMill, John :On Nature\nLondon, Jack:John Barleycorn\nBunyan, John:Pilgrim's Progress, The\nDefoe, Daniel:Robinson Crusoe\nMill, John Stuart:System of Logic, A\nMilton, John:Paradise Lost\nJohnson, Samuel:Lives of the Poets\nShakespeare, William:Julius Caesar\nMill, John Stuart:On Liberty\nBunyan, John:Saved by Grace" > my-junk books.txt
+  558  echo "Carroll, Lewis:Through the Looking-Glass\nShakespeare, William:Hamlet\nBartlett, John:Familiar Quotations\nMill, John :On Nature\nLondon, Jack:John Barleycorn\nBunyan, John:Pilgrim's Progress, The\nDefoe, Daniel:Robinson Crusoe\nMill, John Stuart:System of Logic, A\nMilton, John:Paradise Lost\nJohnson, Samuel:Lives of the Poets\nShakespeare, William:Julius Caesar\nMill, John Stuart:On Liberty\nBunyan, John:Saved by Grace" > my-junk/ books.txt
+  559  echo "Carroll, Lewis:Through the Looking-Glass\nShakespeare, William:Hamlet\nBartlett, John:Familiar Quotations\nMill, John :On Nature\nLondon, Jack:John Barleycorn\nBunyan, John:Pilgrim's Progress, The\nDefoe, Daniel:Robinson Crusoe\nMill, John Stuart:System of Logic, A\nMilton, John:Paradise Lost\nJohnson, Samuel:Lives of the Poets\nShakespeare, William:Julius Caesar\nMill, John Stuart:On Liberty\nBunyan, John:Saved by Grace" > books.txt
+  560  cat books.txt
+  561  cat books.txt| sort
+  562  cat books.txt| sort >sorted_books.txt
+  563  cat sorted_books.txt
+  564  cat books.txt
+  565  cat books.txt| grep Mill
+  566  ls
+  567  cd command-line-murder-mystery
+  568  ls
+  569  cat instructions
+  570  cat cheatsheet.md
+  571  open >
+  572  open .
+  573  cat hint1
+  574  cat hint2
+  575  cat hint3
+  576  ls
+  577  cat hint4
+  578  cat hint5
+  579  cat hint6
+  580  cat hint7
+  581  cat hint8
+  582  ls
+  583  cd mystery
+  584  ls
+  585  cat crimescene
+  586  ls
+  587  cat crimescene | grep "CLUE"
+  588  cd ..
+  589  cat hint1
+  590  cd mystery
+  591  head -n 20 people
+  592  cd..
+  593  cd ..
+  594  cat hint2
+  595  cat hint3
+  596  cd ..
+  597  cd command-line-murder-mystery
+  598  cd mystery
+  599  head -n 20 vehicles
+  600  grep "Annabel" people
+  601  cd ..
+  602  cat hint4
+  603  cat hint5
+  604  cat hint6
+  605  ls
+  606  head LICENSE.txt
+  607  cd mystery
+  608  ls
+  609  cd interviews
+  610  ls
+  611  cd ..
+  612  ls
+  613  cd memberships
+  614  ls
+  615  head AA
+  616  head AAA
+  617  cat AAA Delta_SkyMiles Terminal_City_Library | grep "Annabel" 
+  618  history
+  619  cd ..
+  620  touch solution.txt
+  621  code solution.txt
+  622  ls
+  623  grep "Annabel" people
+  624  grep "Annabel" vehicles
+  625  cat vehicles | grep "Annabel"
+  626  head vechicles
+  627  head vehicles
+  628  head vehicles | grep "Annabel"
+  629  cd streets
+  630  ls
+  631  cd..
+  632  cd ..
+  633  git add solution.txt
+  634  git status
+  635  git commit -m "Sean's solution to The Command Line Murders."
+  636  git status
+  637  man grep
+  638  env
+  639  ls
+  640  cd ..
+  641  ls
+  642  cat hint1
+  643  cat hint2
+  644  cd mystery
+  645  ls
+  646  greb "CLUE" crimescene
+  647  grep "CLUE" crimescene
+  648  grep "CLUE" crimescene >> Clues
+  649  ls
+  650  cat clues
+  651  head -n 20 people
+  652  grep "Annabel" people
+  653  grep "Annabel" people >> Clues
+  654  cat Clues
+  655  cd streets
+  656  ls
+  657  cat ../Clues
+  658  head -n 40 Hart_place | tail -n 1
+  659  cd ..
+  660  ls
+  661  cd interviews
+  662  ls
+  663  cd ..
+  664  cd streets
+  665  head -n 179 Buckingham_Place | tail -n 1
+  666  head -n 179 Buckingham_Place | tail -n 1 >> /Clues
+  667  head -n 179 Buckingham_Place | tail -n 1 >>.. /Clues
+  668  head -n 179 Buckingham_Place | tail -n 1 >>../Clues
+  669  cd ..
+  670  ls
+  671  cat clues
+  672  cd interviews
+  673  ls
+  674  grep "699607"
+  675  ls
+  676  cd ..
+  677  grep 699607 interviews
+  678  cd ..
+  679  ls
+  680  cd mystery
+  681  ls
+  682  grep -A 5 L337 vehicles | grep -A 4 B -1 Honda
+  683  grep -A 5 L337 vehicles
+  684  grep -A 4 B -1 Honda vehicles
+  685  grep -A 5 L337 vehicles | grep -A 4 -B 1 Honda
+  686  grep “Honda” vehicles | grep “Blue” | grep “L337” head
+  687  grep -A 5 L337 vehicles | grep -A 4 -B 1 Honda | grep -A 3 -B 2 Blue | grep -A 1 -B 4 "6'"
+  688  grep -A 5 L337 vehicles | grep -A 4 -B 1 Honda | grep -A 3 -B 2 Blue | grep -A 1 -B 4 "6'" >> Clues
+  689  ls
+  690  cd memberships
+  691  ls
+  692  head -n 5 AAA
+  693  cat AAA Delta_SkyMiles Terminal_City_Library | grep "Annabel" 
+  694  cd ..
+  695  ls
+  696  cd mystery
+  697  ls
+  698  cd ..
