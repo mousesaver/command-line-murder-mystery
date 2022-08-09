@@ -1,0 +1,54 @@
+The commands you used to get the solution (hint: run history for a list of the commands you ran).
+cd command-line-murder-mystery
+  568  ls
+  569  cat instructions
+  570  cat cheatsheet.md
+  571  open >
+  572  open .
+  573  cat hint1
+  574  cat hint2
+  575  cat hint3
+  576  ls
+  577  cat hint4
+  578  cat hint5
+  579  cat hint6
+  580  cat hint7
+  581  cat hint8
+  582  ls
+  583  cd mystery
+  584  ls
+  585  cat crimescene
+  586  ls
+  587  cat crimescene | grep "CLUE"
+  588  cd ..
+  589  cat hint1
+  590  cd mystery
+  591  head -n 20 people
+  592  cd..
+  593  cd ..
+  594  cat hint2
+  595  cat hint3
+  596  cd ..
+  597  cd command-line-murder-mystery
+  598  cd mystery
+  599  head -n 20 vehicles
+  600  grep "Annabel" people
+  601  cd ..
+  602  cat hint4
+  603  cat hint5
+  604  cat hint6
+  605  ls
+  606  head LICENSE.txt
+  607  cd mystery
+  608  ls
+  609  cd interviews
+  610  ls
+  611  cd ..
+  612  ls
+  613  cd memberships
+  614  ls
+  615  head AA
+  616  head AAA
+  617  cat AAA Delta_SkyMiles Terminal_City_Library | grep "Annabel" 
+The name of the killer.
+Annabel Church
