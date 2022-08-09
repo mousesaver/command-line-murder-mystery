@@ -696,3 +696,25 @@
   696  cd mystery
   697  ls
   698  cd ..
+  699  history > solution.txt
+  700  ls
+  701  git status
+  702  git add .
+  703  git status
+  704  git commit -m "finishes deliverables solution, adds solution text"
+  705  git push orgin main
+  706  git remote -v
+  707  git remote set-url origin https://github.com/mousesaver/command-line-murder-mystery.git
+  708  git push orgin main
+  709  git remote -v
+  710  git push orgin main
+  711  git remote -v
+  712  git remote set-url orign https://github.com/mousesaver/command-line-murder-mystery.git
+  713  git remote set-url origin https://github.com/mousesaver/command-line-murder-mystery.git
+  714  git push orgin main
+  715  git remote -v
+  716  git remote set-url origin https://github.com/mousesaver/command-line-murder-mystery.git
+  717  git push origin main
+  718  ls
+  719  rm solution.txt
+  720  istory >> solution2.txt
